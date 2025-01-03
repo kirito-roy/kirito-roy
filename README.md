@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 Currently learning advanced algorithms and data structures.
 - 👯 Looking to collaborate on open-source projects.
 - 🤔 Always eager to find solutions to challenging problems.
-- 📫 How to reach me: [kirito.roy@example.com](mailto:kirito.roy@example.com)
+- 📫 How to reach me: [roy184433@gmail.com](mailto:roy184433@gmail.com)
 
 ## 🛠️ Technologies & Tools
 
