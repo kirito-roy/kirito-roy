@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kirito-roy&repo=awesome-project&theme=radical)](https://github.com/kirito-roy/awesome-project)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kirito-roy&repo=awesome-project&theme=radical)](https://github.com/kirito-roy/PawPawsy)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kirito-roy&repo=another-cool-project&theme=radical)](https://github.com/kirito-roy/another-cool-project)
 
