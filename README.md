@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Python, JavaScript, Java, C++
-- Frameworks & Libraries: Anguler, React, Node.js, Django, Flask
+- Programming Languages: PHP, Python, JavaScript, Java, C++
+- Frameworks & Libraries: Laravel, Anguler, React, Node.js, Django, Flask
 - Databases: MySQL, PostgreSQL, MongoDB
 - Version Control: Git, GitHub
 - Others: Docker, Kubernetes, AWS
